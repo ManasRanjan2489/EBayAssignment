@@ -1,0 +1,8 @@
+url = http://127.0.0.1:4723/wd/hub
+deviceName = 3d04c0ce
+platformVersion = 6.0.1
+platformName = android
+udid = acadde180804
+appPackage = com.amazon.mShop.android.shopping
+appActivity = com
+
